@@ -1,6 +1,6 @@
 {
     "name": "datatables.net-keytable-bs4",
-    "version": "2.3.0",
+    "version": "2.3.1",
     "description": "KeyTable for DataTables with styling for [Bootstrap 4](http://getbootstrap.com/)",
     "files": [
         "css/keyTable.bootstrap4.css"
@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "jquery": ">=1.7",
-        "datatables.net-bs4": ">=1.10.13",
-        "datatables.net-keytable": ">=2.2.0"
+        "datatables.net-bs4": "^1.10.15",
+        "datatables.net-keytable": "2.3.1"
     }
 }
