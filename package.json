@@ -3,9 +3,10 @@
     "version": "2.3.2",
     "description": "KeyTable for DataTables with styling for [Bootstrap 4](http://getbootstrap.com/)",
     "files": [
-        "css/**/*.css"
+        "css/**/*.css",
+        "js/**/*.js"
     ],
-    "main": "./js/keyTable.bootstrap4.js",
+    "main": "js/keyTable.bootstrap4.js",
     "keywords": [
         "spreadsheet",
         "excel",
@@ -26,5 +27,6 @@
         "jquery": ">=1.7",
         "datatables.net-bs4": "^1.10.15",
         "datatables.net-keytable": "2.3.2"
-    }
+    },
+    "style": "css/keyTable.bootstrap4.css"
 }
