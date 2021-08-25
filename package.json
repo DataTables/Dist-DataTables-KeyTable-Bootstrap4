@@ -4,7 +4,7 @@
     "main": "js/keyTable.bootstrap4.js",
     "style": "css/keyTable.bootstrap4.css",
     "types": "./types/keyTable.bootstrap4.d.ts",
-    "version": "2.6.3",
+    "version": "2.6.4",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
